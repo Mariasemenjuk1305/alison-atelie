@@ -167,5 +167,6 @@
 @media(max-width: 600px) {
   .our-works {
     padding-top: 0;
+    gap: 20px;
   }
 }

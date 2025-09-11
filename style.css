@@ -53,9 +53,10 @@ button:focus {
     padding-top: 105px;
 }
 
-section {
+#servises {
     background: url(img/bg2.jpg) left top no-repeat;
-    background-size: 120%;
+    background-size: cover;
+    padding-bottom: 20px;
 }
 
 
@@ -273,7 +274,7 @@ iframe {
 }
 
 @media(max-width: 600px) {
-    section {
+    #servises {
         background: url(img/bg4.jpg) left top no-repeat;
     }
 
