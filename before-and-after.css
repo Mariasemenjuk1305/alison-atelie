@@ -167,6 +167,9 @@
 @media(max-width: 600px) {
   .our-works {
     padding-top: 0;
+  }
+
+  .before-after-wrapper{
     gap: 0;
   }
 }
