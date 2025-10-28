@@ -315,4 +315,8 @@ iframe {
         justify-content: flex-end;
         gap: 10px;
     }
+
+    .white-box{
+        padding-top: 0;
+    }
 }
