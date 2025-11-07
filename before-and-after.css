@@ -18,7 +18,7 @@
   background: #F4F5F7;
 }
 
-.custom-works .loadMore{
+.custom-works .loadMore {
   margin: 50px auto 20px;
 }
 
@@ -227,5 +227,10 @@
 
   .before-after-wrapper {
     gap: 0;
+  }
+
+  .before-after-wrapper,
+  .custom-works-wrapper {
+    max-width: 100%;
   }
 }
