@@ -38,8 +38,8 @@ const data = [
     {
         id: 6,
         category: '',
-        beforeUrl: './img/before-and-after/8.1.jpg',
-        afterUrl: './img/before-and-after/8.2.jpg'
+        beforeUrl: './img/before-and-after/8.2.jpg',
+        afterUrl: './img/before-and-after/8.1.jpg'
     },
     {
         id: 7,
@@ -56,8 +56,8 @@ const data = [
      {
         id: 9,
         category: '',
-        beforeUrl: './img/before-and-after/11.1.jpg',
-        afterUrl: './img/before-and-after/11.2.jpg'
+        beforeUrl: './img/before-and-after/11.2.jpg',
+        afterUrl: './img/before-and-after/11.1.jpg'
     },
     {
         id: 10,
