@@ -88,5 +88,11 @@ const data = [
         category: '',
         beforeUrl: './img/before-and-after/16.1.jpg',
         afterUrl: './img/before-and-after/16.2.jpg'
+    },
+    {
+        id: 13,
+        category: '',
+        beforeUrl: './img/before-and-after/17.1.jpg',
+        afterUrl: './img/before-and-after/17.2.jpg'
     }
 ];
